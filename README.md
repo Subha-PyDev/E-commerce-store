@@ -3,6 +3,7 @@
 - A simple E-commerce Store built with Django, featuring product listing,cart,management,checkout,user authentication.
 
 *Technologies Used :*
+
 -Backend
 -Frontend
 -Database
