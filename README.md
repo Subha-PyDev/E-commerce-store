@@ -4,10 +4,7 @@
 
 *Technologies Used :*
 
--Backend
--Frontend
--Database
--Authentication.
+Backend | Frontend | Database | Authentication
 
 *Key Features :*
 - User Authentication
